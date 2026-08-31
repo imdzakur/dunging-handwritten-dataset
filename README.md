@@ -131,8 +131,8 @@ Anda bebas menyalin, menyebarkan, dan memodifikasi dataset ini untuk keperluan a
 Jika dataset ini digunakan, mohon rujuk sebagai:
 
 ```
-Muhammad Dzaky Ramdani Syakur. (2026). Dataset Aksara Dunging (Iban) [Data set].
-GitHub. [ISI: URL repositori]
+Muhammad Dzaky Ramdani Syakur. (2026). Dataset Aksara Dunging (Iban).
+GitHub. https://github.com/imdzakur/dunging-handwritten-dataset
 ```
 
 ---
