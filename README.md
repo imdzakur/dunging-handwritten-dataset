@@ -43,7 +43,7 @@ Citra mentah sebelum augmentasi dan pembagian tidak disertakan di repo ini.
 ## Cara Dataset Dibuat
 
 - **Penulisan:** seluruh glyph ditulis tangan oleh satu orang menggunakan pulpen di atas HVS polos.
-- **Digitasi:** [ISI: dipindai dengan scanner / difoto dengan kamera ponsel], lalu dipotong per glyph.
+- **Digitasi:** kamera ponsel, lalu dipotong per glyph.
 - **Praproses:** citra dikonversi ke grayscale dan diseragamkan ke 224 x 224 piksel.
 - **Pelabelan:** label ditentukan saat penulisan, bukan setelahnya, sehingga tidak ada proses menebak kelas dari citra.
 - **Augmentasi:** citra latih diperbanyak dari 5.900 menjadi 7.440 lewat augmentasi. Teknik dan parameter yang dipakai tidak terdokumentasi dan tidak dapat direkonstruksi. Lihat bagian Batasan yang Diketahui.
