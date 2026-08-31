@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Jika dataset ini digunakan, mohon sitasi seperti di bawah."
+title: "Dataset Aksara Dunging (Iban)"
+authors:
+  - family-names: "Syakur"
+    given-names: "Muhammad Dzaky Ramdani"
+type: dataset
+license: CC-BY-4.0
+date-released: 2026-08-31
+url: "https://github.com/imdzakur/dunging-handwritten-dataset"
