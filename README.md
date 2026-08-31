@@ -42,19 +42,11 @@ Citra mentah sebelum augmentasi dan pembagian tidak disertakan di repo ini.
 
 ## Cara Dataset Dibuat
 
-- **Penulisan:** seluruh glyph ditulis tangan oleh satu orang menggunakan [ISI: alat tulis, misal pulpen gel 0.5 mm] di atas [ISI: media, misal kertas HVS putih polos].
+- **Penulisan:** seluruh glyph ditulis tangan oleh satu orang menggunakan pulpen di atas HVS polos.
 - **Digitasi:** [ISI: dipindai dengan scanner / difoto dengan kamera ponsel], lalu dipotong per glyph.
 - **Praproses:** citra dikonversi ke grayscale dan diseragamkan ke 224 x 224 piksel.
 - **Pelabelan:** label ditentukan saat penulisan, bukan setelahnya, sehingga tidak ada proses menebak kelas dari citra.
 - **Augmentasi:** citra latih diperbanyak dari 5.900 menjadi 7.440 lewat augmentasi. Teknik dan parameter yang dipakai tidak terdokumentasi dan tidak dapat direkonstruksi. Lihat bagian Batasan yang Diketahui.
-
----
-
-## Rujukan Bentuk Aksara
-
-Bentuk setiap glyph dicocokkan terhadap [ISI: nama sumber rujukan, misal tabel aksara dari buku atau publikasi X, halaman Y].
-
-Rujukan ini menentukan benar atau tidaknya seluruh dataset. Jika terdapat perbedaan bentuk antara rujukan yang dipakai di sini dengan sumber lain, dataset ini mengikuti rujukan di atas.
 
 ---
 
